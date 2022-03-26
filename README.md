@@ -25,4 +25,5 @@ Descripción:
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 **Practicas**
+[Requerimientos.doc](https://github.com/CuellarCarlos28/FrondEnd-Intro/blob/main/Documentos/1.-Reqierimientos.doc)
 
