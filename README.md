@@ -27,4 +27,4 @@ Descripción:
 **Practicas:**
 * [1 Requerimientos.doc](https://github.com/CuellarCarlos28/FrondEnd-Intro/blob/main/Documentos/1.-Reqierimientos.doc)
 * [2 Persona.pdf](https://github.com/CuellarCarlos28/FrondEnd-Intro/blob/main/Documentos/2.-persona.pdf)
-
+* [3 Público Objetivo](https://github.com/CuellarCarlos28/FrondEnd-Intro/blob/main/Documentos/3.-%20P%C3%BAblico%20Objetivo.png)
